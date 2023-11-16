@@ -1,0 +1,9 @@
+{
+	"name": "PruebaDCDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29fd22d7-5acb-4690-b702-523bdcff666a",
+		"tenantId": "54b27a90-fd2b-4fd7-96f4-5d85c6f67a60"
+	}
+}

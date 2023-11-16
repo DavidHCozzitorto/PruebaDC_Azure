@@ -1,0 +1,14 @@
+{
+	"name": "PruebaDC_DataFactory",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-1618890831869984.4.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/b26ebcd0-539b-4217-a814-d5b399a193bf/resourceGroups/PruebaDC/providers/Microsoft.Databricks/workspaces/PruebaDC_AreaTrabajo",
+			"existingClusterId": "1113-200635-n5068jyk"
+		}
+	}
+}
